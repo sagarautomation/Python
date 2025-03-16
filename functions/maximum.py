@@ -9,3 +9,4 @@ def maximum(arr):
     
 max=maximum(arr) 
 print(max)
+print(max)
